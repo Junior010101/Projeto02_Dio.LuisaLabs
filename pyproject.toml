@@ -1,0 +1,17 @@
+[project]
+name = "projeto02-dio"
+version = "0.2.0"
+description = "Evolução do Projeto01_Dio.LuisaLabs, este sistema bancário em Python rodando no terminal permite criar usuários, validar CPF e datas, registrar contas correntes, fazer depósitos e saques, acompanhar extratos detalhados e rastrear transações, oferecendo uma experiência completa de gestão financeira."
+authors = [
+    {name = "junior010101",email = "marcondesjunior2209@gmail.com"}
+]
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

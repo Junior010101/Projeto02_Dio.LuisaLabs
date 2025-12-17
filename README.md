@@ -262,8 +262,11 @@ direction BT
 
 | Usuário não logado | Usuário logado |
 |:--:|:--:|
-| ![](repo/) | ![](repo/) |
-| ![](repo/) | ![](repo/) |
+| ![](repo/menu_default.png) | ![](repo/menu_logado.png) |
+| Transação | Acessar conta |
+| ![](repo/transacao.png) | ![](repo/acessar_conta.png) |
+| Extrato | Listar informações |
+| ![](repo/extrato.png) | ![](repo/contas.png) |
 
 ---
 
